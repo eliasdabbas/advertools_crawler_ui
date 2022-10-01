@@ -7,3 +7,8 @@ A simple no-code interface for crawling websites with many possible option combi
 
 
 ![](adv_crawler_ui.gif)
+
+
+Once you have the crawl dataset in `.jl` format, you can easily convert to `parquet` and explore the columns one at a time:
+
+![](analytics_ui.gif)
