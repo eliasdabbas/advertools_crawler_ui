@@ -1,0 +1,7 @@
+advertools
+pandas
+pyarrow
+jupyter_dash
+dash
+dash_bootstrap_components
+dash_bootstrap_templates
